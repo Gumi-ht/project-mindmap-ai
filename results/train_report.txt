@@ -1,0 +1,5 @@
+Обучение: 240 студентов (1920 строк), тест: 60 студентов (480 строк)
+
+Простое правило (без ML)     accuracy = 0.556   F1 (macro) = 0.563
+Decision Tree                accuracy = 0.773   F1 (macro) = 0.765
+Logistic Regression (осн.)   accuracy = 0.842   F1 (macro) = 0.840
