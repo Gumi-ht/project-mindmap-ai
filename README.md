@@ -87,7 +87,7 @@ GPU және ақылы сервистер қажет емес: модель к�
    streamlit run app.py
    ```
 
-Онлайн нұсқа: [сілтеме]
+Онлайн нұсқа: (https://project-mindmap-ai-d22mzuted8cwritsc5stek.streamlit.app/)
 
 ## Нәтижелер
 
